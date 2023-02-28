@@ -1,6 +1,6 @@
 # Implementing BDI Continual Temporal Planning for Robotic Agents
 
-### Alex Zanetti1, Devis Dal Moro, Redi Vreto, Marco Robol, Marco Roveri and Paolo Giorgini
+### Alex Zanetti, Devis Dal Moro, Redi Vreto, Marco Robol, Marco Roveri and Paolo Giorgini
 
 | ![https://ieee-iros.org/](https://ieee-iros.org/wp-content/uploads/2016/05/IROS-LOGO.svg) | [IROS 2023](https://ieee-iros.org/) - The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023) - October 1–5, 2023 - Huntington Place in Detroit, Michigan, USA. |
 |---                                                                        |---                                                        |
