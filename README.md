@@ -14,3 +14,4 @@ Making autonomous agents effective in real-life applications requires the abilit
   - CJFF can be found at https://github.com/RTI-BDI/JavaFF.
   - The extended ROS2-BDI framework is available at https://github.com/RTI-BDI/ROS2-BDI-ONLINE/tree/ojff.
   - The adopted ROS2 planning system, a revised version of PlanSys2, is available at https://github.com/RTI-BDI/ros2_planning_system
+  - The implementation of the validation scenario based on Webots is available at https://github.com/RTI-BDI/Redi-Webots-scenarios
