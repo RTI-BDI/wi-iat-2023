@@ -2,7 +2,7 @@
 
 ### Alex Zanetti, Devis Dal Moro, Redi Vreto, Marco Robol, Marco Roveri and Paolo Giorgini
 
-| ![https://ieee-iros.org/](https://ieee-iros.org/wp-content/uploads/2016/05/IROS-LOGO.svg) | [IROS 2023](https://ieee-iros.org/) - The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023) - October 1–5, 2023 - Huntington Place in Detroit, Michigan, USA. |
+| ![https://www.wi-iat.com/](https://www.wi-iat.com/wi-iat2023/images/wi-iat-logo.png) | [WI-IAT 2023](https://www.wi-iat.com/wi-iat2023/) - The 22nd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2023) - October 26-29, 2023 - Venice, Italy |
 |---                                                                        |---                                                        |
 
 
