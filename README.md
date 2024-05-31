@@ -15,3 +15,8 @@ Making autonomous agents effective in real-life applications requires the abilit
   - The extended ROS2-BDI framework is available at https://github.com/RTI-BDI/ROS2-BDI-ONLINE/tree/ojff.
   - The adopted ROS2 planning system, a revised version of PlanSys2, is available at https://github.com/RTI-BDI/ros2_planning_system
   - The implementation of the validation scenario based on Webots is available at https://github.com/RTI-BDI/Redi-Webots-scenarios
+
+- How to run
+  - Docker and building instructions at https://github.com/RTI-BDI/ros2bdi_build_workspace
+    - Branch humble https://github.com/RTI-BDI/ros2bdi_build_workspace/tree/humble
+    - Branch humble-online https://github.com/RTI-BDI/ros2bdi_build_workspace/tree/humble-online
